@@ -351,9 +351,6 @@ This demo proves that **natural language automation** is not just a concept—it
 ## 🎓 Learning Resources
 
 - 📚 [Selenium MCP Documentation](https://github.com/angiejones/mcp-selenium)
-- 🎥 [Video Tutorials](#)
-- 💬 [Community Support](#)
-- 🐛 [Issue Tracker](#)
 
 ---
 
